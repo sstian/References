@@ -1,0 +1,40 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "editor.tabSize": 2,
+    "update.showReleaseNotes": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "extensions.autoCheckUpdates": false,
+    "[xml]": {
+        
+    },
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.osx": "",
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.commandCenter": false,
+    "update.mode": "none",
+    "terminal.integrated.shellIntegration.history": 0,
+    "workbench.commandPalette.history": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.workspaceFolder": "C:\\Users\\Snow-Angel\\.leetcode",
+    "leetcode.hint.commandShortcut": false,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.hint.commentDescription": false,
+    "leetcode.defaultLanguage": "javascript",
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.enablePersistentSessions": false,
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}

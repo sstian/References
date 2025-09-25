@@ -1,0 +1,12 @@
+filebeat.inputs:
+- type: filestream
+  id: my-filestream-id
+  enabled: true
+  paths:
+  - C:\Users\Snow-Angel\Desktop\app.log
+
+setup.template.settings:
+  index.number_of_shards: 3
+
+output.logstash:
+  hosts: ["localhost:5044"]
